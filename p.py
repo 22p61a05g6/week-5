@@ -5,4 +5,3 @@ if a > c:
     print(a)
 else:
     print(c)
-giygiu
