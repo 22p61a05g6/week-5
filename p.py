@@ -1,8 +1,8 @@
 a = 5
-b = 10
+c = 10
 
 if a > b:
     print(a)
 else:
-    print(b)
+    print(c)
 
